@@ -1,0 +1,17 @@
+body, html {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background: #004F0F;
+    overflow: hidden;
+}
+
+:root {
+    --cardWidth: 202.5px;
+    --cardHeight: 315.0px;
+}
+
+* {
+    box-sizing: border-box;
+}
